@@ -1,1 +1,4 @@
-
+A bank has collected some data from it's customers and want to predict the chances of the customers leaving the bank based on the collected data.
+The task of the machine learning scientist is to build a model to predict the probability of a customer leaving the bank.
+We use ANN to predict the outcome. The ANN has two hidden layers one of which uses the rectifier function as the activation function , and the other layer uses the sigmoid function .
+This folder contains  a dataset to train the ANN and a jupyter notebook implementing the model to solve the problem.
