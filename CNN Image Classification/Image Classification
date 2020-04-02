@@ -1,1 +1,2 @@
 This folder contains a basic implementation of a convolutional neural network to classify images of cats and dogs.
+The dataset can be found on the link https://www.superdatascience.com/pages/machine-learning under the CNN section.
