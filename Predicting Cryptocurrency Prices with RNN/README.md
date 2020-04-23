@@ -7,7 +7,7 @@ The price of a particular currency in the future is predicted using the volume a
 The currency used for the prediction are:<br>
 1.Bitcoin<br>
 2.Litecoin<br>
-3.Etherium<br>
+3.Ethereum<br>
 4.Bitcoin Cash<br>
 
 This folder contains a jupyter notebook which shows the implmentation of RNN using python and a folder which contains all the data used to predict the prices .
