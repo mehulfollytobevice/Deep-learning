@@ -3,7 +3,7 @@ The Sloan Digital Sky Survey has created the most detailed three-dimensional map
 
 The dataset consists of 10,000 observations of space taken by the SDSS. Every observation is described by 17 feature columns and 1 class column which identifies it to be either a star, galaxy or quasar.The dataset can be found here:https://www.kaggle.com/lucidlenn/sloan-digital-sky-survey
 
-This folder contains an ipython notebook showing the implementation of the DNN .
+This folder contains an ipython notebook showing the implementation of the DNN . The Neural Network implemented in the notebook can be improved further and trained for a longer number of epochs so that the training loss and validation loss decreases further. 
 
 ## Acknowlegments 
 
