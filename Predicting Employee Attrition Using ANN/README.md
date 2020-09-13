@@ -1,7 +1,11 @@
 # Predicting Employee Attrition Using ANN
 
-Understanding the people that work in the company is one of the most important aspects that makes a company successful.This folder contains a deep learning approach to understanding the problem of employee attrition.<br>Why does it happen ? What are some factors contributing to it ? Are there any interesting patterns or behaviours that can be observed ?
+Understanding the people that work in the company is one of the most important aspects that makes a company successful.This folder contains a deep learning approach to understanding the problem of employee attrition.
 
+## Introduction
+Employee attrition is defined as the natural process by which employees leave the workforce – for example, through resignation for personal reasons or retirement – and are not immediately replaced.Some forms of attrition are unavoidable, like if an employee is retiring or is moving to another city. But after a certain threshold, attrition can make a big dent in your company’s bottom line as well as its culture.Employee attrition might also help us find loopholes in the company's structure or working ,thus enabling us to build a better organization.
+
+## Our Approach
 Here we apply our knowledge of ANNs to design a model that can efffectively predict which employees are going to leave a job and which are going to stay . In doing so , we understand which factors are good indicators of employee attrition and also  what is the relation between different factors.
 
 Some of the other things that we explore in the jupyter notebook are:
