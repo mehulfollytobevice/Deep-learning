@@ -16,4 +16,6 @@ Some of the other things that we explore in the jupyter notebook are:
 * Stratified K-fold cross validation
 * SHAP values and summary plot
 
-The dataset used in the above problem can be found here: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
+The dataset used in the above problem can be found here: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset 
+
+I also wrote a blog post based on this project, so please check it out: [Pycho Pass — How Neural Nets can predict your resignation at the workplace](https://medium.com/@mehul_jain/pycho-pass-how-neural-nets-can-predict-your-resignation-at-the-workplace-8a2a734c6799)
