@@ -5,6 +5,8 @@ The dataset consists of 10,000 observations of space taken by the SDSS. Every ob
 
 This folder contains an ipython notebook showing the implementation of the DNN . The Neural Network implemented in the notebook can be improved further and trained for a longer number of epochs so that the training loss and validation loss decreases further. 
 
+I also wrote a blog post on this project, so please check it out: [Classifying Celestial Objects using Neural Networks](https://medium.com/vitmas/classifying-celestial-objects-using-neural-networks-7495a1aac0c)
+
 ## Acknowlegments 
 
 The data released by the SDSS is under public domain.
